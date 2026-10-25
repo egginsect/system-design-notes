@@ -37,6 +37,10 @@ Check the notes here: https://pagefy.io/system-design/system-design-interview-by
  * [Chapter 28 - Stock Exchange](./28.%20Stock%20Exchange/)
 
 
+## Supplemental study guide
+
+* [ML Infrastructure and Inference interview guide](./29.%20ML%20Infrastructure%20and%20Inference/)
+
 # Additonal Resources
 
 ### Rate Limiting
