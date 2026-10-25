@@ -37,6 +37,12 @@ Check the notes here: https://pagefy.io/system-design/system-design-interview-by
  * [Chapter 28 - Stock Exchange](./28.%20Stock%20Exchange/)
 
 
+# ML Infrastructure Interview Notes
+
+Independent supplementary notes, separate from the Alex Xu Vol. 1/2 book chapters above.
+
+- [LLM Inference Infrastructure（中文笔记 / English terminology）](./ML%20Infrastructure/Inference/README.md)
+
 # Additonal Resources
 
 ### Rate Limiting
